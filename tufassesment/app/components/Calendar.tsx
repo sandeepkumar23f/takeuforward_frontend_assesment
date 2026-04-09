@@ -104,7 +104,7 @@ export default function Calendar({
   };
 
   return (
-    <div className="calendar-container">
+    <div className="calendar-container text-black">
       <div className="flex justify-between items-center mb-6">
         <button
           onClick={handlePrevMonth}
